@@ -6,6 +6,6 @@ public class ScraperConfig2 implements ScraperConfiguration {
 
     @Override
     public String toString() {
-        return "Hallo Wel3323t";
+        return "Hallo Welt2";
     }
 }
