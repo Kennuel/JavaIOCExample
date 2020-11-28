@@ -1,2 +1,2 @@
 # A Simple Example for IOC with Annotations
-Fabric and loader for different approaches 
+Factory method and loader for different approaches to use ioc in java with annotations
