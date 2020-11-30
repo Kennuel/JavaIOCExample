@@ -5,6 +5,12 @@ import com.scraperioc.framework.runner.ScraperRunnerFactory;
 import com.scraperioc.framework.scraperconfiguration.configurationloader.ScraperConfigurationLoader;
 import com.scraperioc.framework.scraperconfiguration.configurationloader.ScraperConfigurationLoaderFactory;
 
+/**
+* A Simple Container class which directly runs all classes inside the classfiles implementing the interface ScraperConfiguration.
+* 
+* 
+*/
+
 
 public class ScraperIOCContainer {
 
